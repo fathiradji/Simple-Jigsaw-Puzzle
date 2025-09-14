@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mewingcat_0: 8419230451432498667
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
